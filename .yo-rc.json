@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.gateway"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "microservice",
+    "baseName": "JhipsterMicro",
+    "packageName": "com.gateway",
+    "packageFolder": "com/gateway",
+    "serverPort": "8084",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "M2E2NmQ4NmIyMWYyYmJhMWQzMDg1YTdlYjRjNTU0ZmM0ZTUzYWMyMjE1ODAxNmU2MGUyMTM0ODI0MmYzZmYwOGY1NTgwOTdmMjZiYjc5Mzk2YWYyMWI0NTZlZTE1NTZkMzg1YjE2ZjIxZDBkZmI2MWExYTg5NzljNWU1ODEwNmY=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
